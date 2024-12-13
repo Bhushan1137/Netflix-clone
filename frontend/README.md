@@ -1,8 +1,12 @@
-# React + Vite
+<h1>Created a user friendly interface of Netflix</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Command to run locally
 
-Currently, two official plugins are available:
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Command to start server/backend
+
+node server.js
+or
+nodemon server.js
+
